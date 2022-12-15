@@ -1,5 +1,11 @@
-![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
+<!-- ![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif) -->
 <!-- ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif) -->
+<p align="center">
+  <img align="center" src="https://i.ibb.co/FnzDJZY/computalk.gif">
+  <h5 align="center">Welcome to My GitHub</h5>
+  <h6 align="center">have fun & try not to break anything</h6>
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Atanu Bera</h1>
 <h3 align="center">A passionate frontend developer from India</h3>

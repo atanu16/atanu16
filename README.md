@@ -6,7 +6,7 @@
   <h6 align="center">have fun & try not to break anything</h6>
 </p>
 
-
+<!-- 
 <h1 align="center">Hi 👋, I'm Atanu Bera</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -44,3 +44,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atanu16&show_icons=true&locale=en" alt="atanu16" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atanu16&" alt="atanu16" /></p>
+ -->

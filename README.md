@@ -53,6 +53,7 @@
 ###
 
 <div align="left">
+   <H5>📫 How to reach me </H5> <br>
 <a href="https://twitter.com/atanumax2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atanumax2" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/atanu-bera-544ba6228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atanu-bera-544ba6228" height="30" width="40" /></a>
 <a href="https://codesandbox.com/atanu16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="atanu16" height="30" width="40" /></a>

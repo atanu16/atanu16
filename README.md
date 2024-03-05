@@ -8,7 +8,7 @@
 
 
 ###
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=atanu16&label=Profile%20views&color=0e75b6&style=flat" alt="atanu16" /> </p>
 <h2 align="left">Hi 👋! My name is Atanu Bera and I'm a Developer from India</h2>
 
 ###

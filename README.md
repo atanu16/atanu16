@@ -68,8 +68,9 @@
 ###
 
 <br clear="both">
+-->
 
-<img src="https://raw.githubusercontent.com/atanu16/atanu16/output/snake.svg" alt="Snake animation" /> -->
+<img src="https://raw.githubusercontent.com/atanu16/atanu16/output/snake.svg" alt="Snake animation" /> 
 
 
 

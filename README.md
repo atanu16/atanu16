@@ -9,6 +9,21 @@
 
 ###
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atanu16&label=Profile%20views&color=0e75b6&style=flat" alt="atanu16" /> </p>
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const thai = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  tools: [React, Redux, Node, Styled-Components, Next, Docker],
+  architecture: [ "System Programing", "design system pattern"],
+ 
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
+
+
 <!-- <h2 align="left">Hi 👋! My name is Atanu Bera and I'm a Developer from India</h2> -->
 <!-- 
 ###

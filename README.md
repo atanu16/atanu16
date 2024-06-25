@@ -14,7 +14,7 @@
 
 ```javascript
 const thai = {
-  pronouns: "she" | "her",
+  pronouns: "He" | "Him",
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
   tools: [React, Redux, Node, Styled-Components, Next, Docker],
   architecture: [ "System Programing", "design system pattern"],

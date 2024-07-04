@@ -17,7 +17,7 @@ const Atanu = {
   pronouns: "He" | "Him",
   code: [Javascript, Typescript, HTML, CSS, Python, Java],
   tools: [React, Redux, Node, Styled-Components, Next, Docker, Matlab, UiPath],
-  architecture: [ "System Programing", "design system pattern"],
+  architecture: [ "System Programing", "Robotic Process Automation"],
  
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }

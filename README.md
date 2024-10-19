@@ -14,10 +14,11 @@
 
 ```javascript
 const Atanu = {
-  pronouns: "He" | "Him",
-  code: [Javascript, Typescript, HTML, CSS, Python, Java],
-  tools: [React, Redux, Node, Styled-Components, Next, Docker, Matlab, UiPath],
-  architecture: [ "System Programing", "Robotic Process Automation"],
+  Pronouns: "He" | "Him",
+  Code: [Javascript, Typescript, HTML, CSS, Python, Java],
+  Tools: [React, Redux, Node, Styled-Components, Next, Docker, Matlab],
+  Automation Tools: [UiPath, Power Automate, Automation Anywhere, Blue Prism]
+  Architecture: [ "System Programing", "Robotic Process Automation"],
  
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
